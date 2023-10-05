@@ -6,4 +6,5 @@
 * "TestCase1": "Check endpoints version".
 * "TestCase4": "Check 3 lines".
 * "TestCase3": "Check localisation config".
+* "TestCase5": "General testing".
 */
