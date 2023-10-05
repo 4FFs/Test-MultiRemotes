@@ -7,4 +7,5 @@
 * "TestCase4": "Check 3 lines".
 * "TestCase3": "Check localisation config".
 * "TestCase6": "General testing 2".
+* "TestCase5": "General testing".
 */
