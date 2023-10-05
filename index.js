@@ -1,5 +1,5 @@
 /*
 * This is testing.
 * Add this line to test again.
-* Add this line to test for git merge.
+* Add this line to accept git merge from dev.
 */
