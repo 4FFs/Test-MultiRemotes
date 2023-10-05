@@ -5,4 +5,5 @@
 * "TestCase2": "Check timestamp at db".
 * "TestCase1": "Check endpoints version".
 * "TestCase4": "Check 3 lines".
+* "TestCase3": "Check localisation config".
 */
