@@ -4,4 +4,5 @@
 * Add this line to accept git merge from dev.
 * "TestCase2": "Check timestamp at db".
 * "TestCase1": "Check endpoints version".
+* "TestCase4": "Check 3 lines".
 */
